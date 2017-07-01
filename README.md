@@ -1,1 +1,2 @@
-I am faozey by name# sipp
+# sipp  I am faozey by name
+what is your rate
